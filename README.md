@@ -6,7 +6,7 @@ For this assignment, the code in the Weekly Challenge HTML and CSS files has bee
 
 ### Screenshot
 
-(images/01-html-css-git-homework-demo.png)
+<img src="images/01-html-css-git-homework-demo.png" alt="deployed website" />
 
 ### Link to deployed website
 
