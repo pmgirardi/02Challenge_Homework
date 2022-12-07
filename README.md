@@ -10,4 +10,4 @@ For this assignment, the code in the Weekly Challenge HTML and CSS files has bee
 
 ### Link to deployed website
 
-<a href="#https://pmgirardi.github.io/Bootcamp_Demo_Site/">Link to deployed website</a>
+https://pmgirardi.github.io/Bootcamp_Demo_Site/
