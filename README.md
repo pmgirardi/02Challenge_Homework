@@ -1,2 +1,2 @@
-# 02Challenge_Homework
+# Bootcamp_Demo_Site
 Homework assignment 
